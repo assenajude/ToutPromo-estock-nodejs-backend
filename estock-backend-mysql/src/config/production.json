@@ -1,0 +1,6 @@
+{
+  "name": "estock-backend-prod",
+  "mail": {
+    "host": "estock-prod-server"
+  }
+}

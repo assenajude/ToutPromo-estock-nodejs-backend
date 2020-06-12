@@ -1,0 +1,19 @@
+{
+  "name": "estock_backend_dev",
+  "mail": {
+    "host": "dev-server-host"
+  },
+  "database" : {
+    "HOST": "localhost",
+    "USER": "root",
+    "PASSWORD": "",
+    "DB": "estockdb",
+    "dialect": "mysql",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  }
+}

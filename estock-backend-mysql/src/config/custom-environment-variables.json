@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "estock_jwtPrivateKey",
+  "mail" : {
+    "password": "estock_password"
+  }
+}
